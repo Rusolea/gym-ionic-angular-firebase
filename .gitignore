@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Compiled source #
+dist/
+tmp/
+out-tsc/
+
+# System files #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Firebase
+firebase-debug.log
+.firebaserc
+
+# Ionic specific
+platforms/
+plugins/
+www/
+build/
